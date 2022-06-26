@@ -75,14 +75,14 @@ async def start_(client: Client, message: Message):
                         "👥 كروب الدعم", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "↬ 𝙹𝙴𝙿𝚃𝙷𝙾𝙽 𝙰𝚁𝙰𝙱 ⟊", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "⌯ 𝐒𝐨𝐮𝐫𝐜𝐞 𝐋𝐨𝐫𝐝 ⌯", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                 ],
             ]
         ),
         disable_web_page_preview=True,
     )
-    await USER.add_contact(message.from_user.id, "جيبثون العرب")
+    await USER.add_contact(message.from_user.id, "سورس لورد")
 
 
 @Client.on_message(
@@ -98,7 +98,7 @@ async def alive(client: Client, message: Message):
             [
                 InlineKeyboardButton("✨ كروب الدعم", url=f"https://t.me/{GROUP_SUPPORT}"),
                 InlineKeyboardButton(
-                    "↬ 𝙹𝙴𝙿𝚃𝙷𝙾𝙽 𝙰𝚁𝙰𝙱 ⟊", url=f"https://t.me/{UPDATES_CHANNEL}"
+                    "⌯ 𝐒𝐨𝐮𝐫𝐜𝐞 𝐋𝐨𝐫𝐝 ⌯", url=f"https://t.me/{UPDATES_CHANNEL}"
                 ),
             ]
         ]

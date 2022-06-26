@@ -58,7 +58,7 @@ async def alive(client: Client, message: Message):
             [
                 InlineKeyboardButton("✨ كروب الدعم", url=f"https://t.me/{GROUP_SUPPORT}"),
                 InlineKeyboardButton(
-                    "↬ 𝙹𝙴𝙿𝚃𝙷𝙾𝙽 𝙰𝚁𝙰𝙱 ⟊", url=f"https://t.me/{UPDATES_CHANNEL}"
+                    "⌯ 𝐒𝐨𝐮𝐫𝐜𝐞 𝐋𝐨𝐫𝐝 ⌯", url=f"https://t.me/{UPDATES_CHANNEL}"
                 ),
             ]
         ]
@@ -66,13 +66,13 @@ async def alive(client: Client, message: Message):
 
     alive = f"""**أنا {BOT_NAME}**
 ✨ أعمل الأن بشكل طبيعي
-🍀 مطوري : [- السيد ❤️](https://t.me/lMl10l)
+🍀 مطوري : [- السورس️❤️](https://t.me/SOURCE_LORD1)
 ✨ إصداري: {__version__}
 🍀 إصدار البايوجرام: {pyrover}
 ✨ إصدار البايثون: {__python_version__}
 🍀 إصدار المحادثة الصوتيه: {pytover.__version__}
 ✨ وقت البدء: {uptime}
-🤍 قناة السورس : [جيبثون العرب](https://t.me/jepthon)
+🤍 قناة السورس : [سورس لورد](https://t.me/source_lord)
 
 **شكرا لإضافتي لتشغيل الموسيقي والفديو في محادثتك الصوتية** ❤"""
 
