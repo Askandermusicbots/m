@@ -1,4 +1,4 @@
-<h1 align="center"><b>جيبثون </b></h1>
+<h1 align="center"><b>سورس لورد </b></h1>
 
 <p align="center">
     <br><b>يدعم تشغيل الموسيقي والفديو داخل المحادثات الصوتية</b><br>
@@ -12,7 +12,7 @@
 
 ## 🎭 حقوق السورس
 <p align="center">
-  <img src="https://telegra.ph/file/440d26335ffda1f74e12d.jpg">
+  <img src="https://telegra.ph/file/07e0619b98e6cb6bfd470.jpg">
 </p>
 
 ## ✨ المميزات
@@ -55,7 +55,7 @@
 ## التنصيب علي هيوركا 💜
 من أسهل طرق تشغيل البوت ولكن مدتها 22 يوم فقط 
 
-[![تشغيل](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/alfaransy/REWYT)
+[![تشغيل](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Askandermusicbots/lords.git)
 
 
 
@@ -63,9 +63,9 @@
 
 
 ### قناة التحديثات والدعم 🎑
-<a href="https://t.me/D03DD"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/AMmARckoo"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/SOURCE_LORD"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/SOURCELORD"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 
 ### تم تطوير السورس بواسطة
-<a href="https://t.me/XXUUU"><img src="https://img.shields.io/badge/Dev%20Ammarco-blue.svg?style=for-the-badge&logo=Ammar"></a> <a href="https://t.me/XXUUU"><img src="https://img.shields.io/badge/Dev%20Ammarco-blue.svg?style=for-the-badge&logo=Ammar"></a> <a href="https://t.me/XXUUU"><img src="https://img.shields.io/badge/Dev%20Ammarco-blue.svg?style=for-the-badge&logo=Ammar"></a>
+<a href="https://t.me/DAD_A_S_K_A_N_D_E_R"><img src="https://img.shields.io/badge/Dev%20Askander-blue.svg?style=for-the-badge&logo=Askander"></a> <a href="https://t.me/DAD_A_S_K_A_N_D_E_R"><img src="https://img.shields.io/badge/Dev%20Askander-blue.svg?style=for-the-badge&logo=Askander"></a> <a href="https://t.me/PV_HM9DY"><img src="https://img.shields.io/badge/Dev%20HMODY-blue.svg?style=for-the-badge&logo=HMODY"></a>

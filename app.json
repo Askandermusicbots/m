@@ -1,5 +1,5 @@
 {
-    "name": "『 جيبثون 』『Musíc』",
+    "name": "⌯ 𝐒𝐨𝐮𝐫𝐜𝐞 𝐋𝐨𝐫𝐝 ⌯",
     "description": "بوت تشغيل الموسيقي والفيديو في االمحادثة الصوتية",
     "logo": "",
     "keywords": [
@@ -8,9 +8,9 @@
         "تشغيل فديو",
         "بيوجرام"
     ],
-    "website": "https://t.me/jepthon",
+    "website": "https://t.me/source_lord",
     "repository": "https://github.com/alfaransy/REWYT",
-    "success_url": "https://t.me/jepthon",
+    "success_url": "https://t.me/source_lord",
     "env": {
         "API_ID": {
             "description": "api id تستطيع جلبه من my.telegram.org",
@@ -47,22 +47,22 @@
         "SUDO_USERS": {
             "description": "ايدي المطورين",
             "required": true,
-            "value": "705475246"
+            "value": "5206922974"
         },
         "GROUP_SUPPORT": {
             "description": "معرف جروب الدعم بدون @",
             "required": true,
-            "value": "jepthonsupport"
+            "value": "sourcelord"
         },
         "UPDATES_CHANNEL": {
             "description": "معرف قناتك بدون @",
             "required": true,
-            "value": "jepthon"
+            "value": "source_lord"
         },
         "OWNER_NAME": {
             "description": "معرف المطور بدون @",
             "required": true,
-            "value": "lMl10l"
+            "value": "DAD_A_S_K_A_N_D_E_R"
         },
         "ALIVE_NAME": {
             "description": "اسم حسابك علي التيلجرام",
